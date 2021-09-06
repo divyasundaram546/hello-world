@@ -1,4 +1,4 @@
 <h1> Welcome to SIES Graduate School of Technology -DevOps Lab </h1>
-<h2>Divyalaxmi Thiruganan </h2>
+<h2>Setup and deploy using jenkins for Divyalaxmi Thiruganan</h2>
 
 
